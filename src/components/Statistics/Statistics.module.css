@@ -1,0 +1,32 @@
+.statistics {
+  width: 300px;
+  border-radius: 7px;
+  box-shadow: 0 0 6px 0 #adacac;
+}
+.title {
+  background-color: #fff;
+  font-weight: 100;
+  text-align: center;
+  padding: 20px 10px;
+  margin-bottom: 0;
+}
+.statList {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.item {
+  padding: 10px;
+  min-width: 60px;
+  color: black;
+  text-align: center;
+}
+.label {
+  display: block;
+  font-size: 14px;
+}
+.percentage {
+  display: block;
+  font-size: 18px;
+}
